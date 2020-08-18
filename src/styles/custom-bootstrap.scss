@@ -1,0 +1,16 @@
+$theme-colors : (
+"custom-primary-light":  rgba(217, 89, 106, 0.4) ,
+"custom-primary": #b3293bff ,
+"custom-primary-dark": #962231 ,
+
+"custom-secondary-light": rgba(236, 173, 63, 0.6), 
+"custom-secondary": #ecad31ff ,
+"custom-secondary-dark": #DF9516 ,
+"bg-dark": #333333 ,
+"bg-light": #EAEAEA ,
+"text-light": #ffffffff, 
+"text-dark": #111111 
+);
+
+
+@import "~bootstrap/scss/bootstrap" 
